@@ -145,7 +145,7 @@ I configured a `/etc/init.d/remove_vlan_ext.sh` script to every 30 seconds check
 
 **And it works!**:tada:
 
-## Changing the firmare for Huawei MA5671A
+## Changing the firmware for Huawei MA5671A
 
 After some speed test the downspeed was correct but the uploads was flaky and not getting the full performance comparted to the ISP in bridge mode.
 
